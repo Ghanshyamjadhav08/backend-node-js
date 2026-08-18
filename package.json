@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend node js ",
+  "keywords": [
+    "node",
+    "js",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "ghanshyam jadhav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
